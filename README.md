@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhnklcbs&count_bg=%2329A842&title_bg=%2322252D&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **hnklcbs/hnklcbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
